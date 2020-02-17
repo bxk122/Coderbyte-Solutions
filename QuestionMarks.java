@@ -6,6 +6,8 @@
 //For example: if str is "arrb6???4xxbl5???eee5" then your program should return true because there are exactly 3 question marks 
 //between 6 and 4, and 3 question marks between 5 and 5 at the end of the string.
 
+// this is not the best solution nor a complete solution. If you find any better solution please pull req.
+
 import java.util.*; 
 import java.io.*;
 
