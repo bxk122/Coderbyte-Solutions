@@ -6,9 +6,7 @@ import java.util.*;
 import java.io.*;
 
 class LetterChange {
-//this is the second version of the code
-//but with no changes
-//now go check in  githubdesktop
+
    public static String LetterChanges(String str) 
       {
         String k = "";
